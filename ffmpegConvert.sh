@@ -21,6 +21,8 @@ if [ "$#" -ne 2 ]; then
     error "Usage: $0 <input_file> <output_file>"
 fi
 
+# tmp 
+
 input_file="$1"
 output_file="$2"
 
