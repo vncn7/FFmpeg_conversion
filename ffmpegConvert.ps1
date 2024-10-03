@@ -1,3 +1,5 @@
+# GUI Version
+
 # Load necessary .NET assemblies for GUI components
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
