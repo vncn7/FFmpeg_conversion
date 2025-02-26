@@ -1,5 +1,3 @@
----
-
 ## **ffmpeg h.264 GPU accelerated converter**
 - **GPU Acceleration**: Leverages NVIDIA NVENC for faster video encoding.
 - **Real-Time Progress**: Displays FFmpeg's output in the GUI for transparency.
