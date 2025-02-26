@@ -1,5 +1,5 @@
-https://github.com/vncn7/ffmpeg_conversion
 ---
+
 ## **ffmpeg h.264 GPU accelerated converter**
 - **GPU Acceleration**: Leverages NVIDIA NVENC for faster video encoding.
 - **Real-Time Progress**: Displays FFmpeg's output in the GUI for transparency.
@@ -8,6 +8,5 @@ https://github.com/vncn7/ffmpeg_conversion
 
 ---
 ## **Usage**  
-- Run with powershell
-![[Pasted image 20250222194625.png|650]]
+- Run with powershell or vbs
 
